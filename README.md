@@ -1,2 +1,2 @@
 # Sudoku-In-Prolog
-solve sudoku in prolog
+solve sudoku by suing prolog
